@@ -9,16 +9,16 @@ If you wish to have the movie images locally for your own project, please instal
 ### Git
 
 ```sh
-git clone urlplaceholder
+git clone https://github.com/oriordac/movie-poster-database
 ```
 
 ### Npm
 
 ```sh
-npm install --save urlplaceholder
+npm install --save https://github.com/oriordac/movie-poster-database
 ```
 
 ### Bower
 
 ```sh
-bower install --save urlplaceholder
+bower install --save https://github.com/oriordac/movie-poster-database
